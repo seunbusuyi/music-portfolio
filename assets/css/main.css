@@ -1,0 +1,121 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #212121;
+    font-size: 0.95rem; 
+}
+
+body a {
+    color: red;
+}
+
+body a:hover {
+    color: #000;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Muli', sans-serif;
+    color: #000;
+}
+
+.h1, .h2, h1, h2 {
+    margin: 1.5rem 0;
+    font-weight: 750;
+    letter-spacing: -.02em;
+}
+
+.h3, h3 {
+    font-weight: 600;
+    letter-spacing: -.02em;
+}
+
+.wrap {
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+/* Header */
+
+.navbar-brand {
+    font-family: 'Muli', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: -.02em;
+}
+
+.nav-link span {
+    font-family: 'Muli', sans-serif;
+    font-size: 1.05rem;
+    font-weight: 600;
+}
+
+/* Default Layout */
+
+.single h1, .single h2, .single h3, .single h4, .single h5, .single h6, .single ol, .single p, .single ul, .single hr {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lead {
+    font-weight: 400;
+}
+
+/* Primary Button */
+
+.btn-primary {
+    background: red;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.btn-primary:hover {
+    background: #000;
+}
+
+/* Big Fucking Red Button */
+
+.button {
+    max-width: 750px;
+    margin: 40px auto;
+}
+
+.big-red-button {
+    padding: 15px 20px;
+    background: red;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+a.big-red-button:hover {
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Social Media Buttons */
+
+.social__link {
+    font-size: 14px;
+    width: 28px;
+    height: 28px;
+    position: relative;
+    border-radius: 50%;
+    background: #000;
+    display: inline-block;
+    line-height: 1;
+    color: #fff;
+    margin: 0 3px;
+}
+
+.social__link:hover {
+    color: #fff;
+}
+
+.social .svg-inline--fa {
+    height: 28px;
+}
