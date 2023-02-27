@@ -17,12 +17,6 @@ string orchestra | 7’
 
 ## Chamber Music
 
-**_Crow Fights the Sun_** (2018)  
-alto flute, percussion and strings | 12’
-
-**_Dark Wood_** (2018)  
-bass clarinet, cello and marimba | 8’
-
 **_Echoes of a Sonic Habitat_** (2016)  
 flute, clarinet, bassoon, percussion quartet and electronics | 45’
 
