@@ -1,10 +1,9 @@
 #SITE CONFIGURATION
 
-title: Andrew Stiefel
+title: Oluwaseun Daniel Oluwabusuyi
 description: Composer
 repository: "andrewstiefel/music-portfolio"
-baseurl: 
-url: "http://andrewstiefel.com"
+baseurl: "https://seunbusuyi.github.io/music-portfolio//"
 
 google_tag_manager: GTM-P7PZFVP
 
