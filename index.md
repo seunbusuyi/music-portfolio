@@ -3,7 +3,7 @@ layout: default
 headline: About
 description: Oluwaseun Daniel Oluwabusuyi  is a composer, performer, and writer whose work explores the intersections between written and recorded sound.
 summary: Oluwaseun Daniel Oluwabusuyi is a Muscologist who hails from the Ekiti State, Southwest region of Nigeria. His music explores the intersections between written and recorded sound.
-featured-img: Oluwaseun-Daniel-Woodwind.jpg
+featured-img: IMG_5491.jpeg
 permalink: /
 ---
 
