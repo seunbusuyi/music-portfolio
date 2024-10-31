@@ -1,13 +1,13 @@
 ---
 layout: default
 headline: About
-description: Andrew Stiefel is a composer, performer, and writer whose work explores the intersections between written and recorded sound.
-summary: Andrew Stiefel is a composer living in Seattle, Washington. His music explores the intersections between written and recorded sound.
-featured-img: andrew-stiefel-viola.jpg
+description: Oluwaseun Daniel Oluwabusuyi  is a composer, performer, and writer whose work explores the intersections between written and recorded sound.
+summary: Oluwaseun Daniel Oluwabusuyi is a Muscologist who hails from the Ekiti State, Southwest region of Nigeria. His music explores the intersections between written and recorded sound.
+featured-img: Oluwaseun-Daniel-Woodwind.jpg
 permalink: /
 ---
 
-Andrew Stiefel is a composer and sound artist whose music explores the intersections between written and recorded sound. 
+
 
 An experienced field recordist, he has worked with scientists at the Cornell Lab of Ornithology and has contributed field recordings to the Macaulay Library. In 2012 he was Artist in Residence at Crater Lake National Park and spent several weeks recording and documenting the park's ecosystems. Since then his work has centered around documenting and interpreting the changing soundscapes of the Pacific Northwest.
 
